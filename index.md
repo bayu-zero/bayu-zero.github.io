@@ -10,7 +10,7 @@ Hello world !
 
 # Profilling
 
-> Belajar dari hari kemarin, hidup untuk hari ini, berharap untuk hari esok. Hal penting adalah keberanian. - ENTJ-A
+> Belajar dari hari kemarin, hidup untuk hari ini, berharap untuk hari esok. Hal penting adalah keberanian dan tidak terpengaruh dogma. - ENTJ
 ------------
 > Efficient – Commanders see inefficiency not just as a problem in its own right, but as something that pulls time and energy away from all their future goals, an elaborate sabotage consisting of irrationality and laziness. People with the Commander personality type will root out such behavior wherever they go.
 
