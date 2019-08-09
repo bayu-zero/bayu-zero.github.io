@@ -55,12 +55,12 @@ end
 
 #### Others
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Name          | Response Model          | Description						      |
+|:--------------|:------------------------|:----------------------------------------------------------|
+| nextToken     | DeviceEventsResponse    | The token to retrieve the next set of results.            |
+| maxResults    | InvalidRequestException | The maximum number of results to return per request.      |
+| fromTimeStamp | good `oreos`            | in ISO8061 format. For example, 2018-03-28T15:45:12.880Z  |
+| toTimeStamp   | good `zoute` drop       | in ISO8061 format. For example, 2018-03-28T15:45:12.880Z  |
 
 ### There's a horizontal rule below this.
 
