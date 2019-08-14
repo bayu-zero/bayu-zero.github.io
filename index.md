@@ -10,19 +10,17 @@ Hello world !
 
 # Profilling
 
-> Belajar dari hari kemarin, hidup untuk hari ini, berharap untuk hari esok. Hal penting adalah keberanian dan tidak terpengaruh dogma. - ENTJ
+> Belajar dari hari kemarin, hidup untuk hari ini, berharap untuk hari esok. Hal penting adalah keberanian dan opini berdasarkan informasi. - INTJ-A
 ------------
-> Efficient – Commanders see inefficiency not just as a problem in its own right, but as something that pulls time and energy away from all their future goals, an elaborate sabotage consisting of irrationality and laziness. People with the Commander personality type will root out such behavior wherever they go.
+> Independent and Decisive – This creativity, logic, and confidence form individuals who stand on their own and take responsibility for their actions. Authority figures don’t impress Architects, and neither do social conventions. And no matter how popular something is, if they have a better idea, Architects stand against anyone they must to promote their plan. Either an idea is rational, or it’s wrong, and they’re happy to apply that standard to themselves.
 
-> Energetic – Rather than finding this process taxing Commanders are energized by it, genuinely enjoying leading their teams forward as they implement their plans and goals.
+> Hard-Working and Determined – If something grabs their interest, Architect personalities can be very dedicated to their work. They often put in long hours and intense effort. Architects are efficient, and if tasks lead to meeting a clear and relevant goal, they strive to accomplish those tasks.
 
-> Self-Confident – Commanders couldn’t do this if they were plagued by self-doubt – they trust their abilities, make known their opinions, and believe in their capacities as leaders.
+> Open-Minded – Architects are open to new ideas as long as they’re argued well. People with this personality type are even (maybe especially) open to ideas that go against their own if the thinking is sound. They often apply their openness and independence when thinking about matters like alternative lifestyles. Mix this with their dislike for rules and traditions, and it’s easy to see how Architects might lean toward more tolerant social views.
 
-> Strong-Willed – Nor do they give up when the going gets tough – Commander personalities strive to achieve their goals, but really nothing is quite as satisfying to them as rising to the challenge of each obstacle in their run to the finish line.
+> Jacks-of-all-Trades – Because of Architects’ open-mindedness, willpower, independence, confidence, and planning abilities, they are capable of doing anything they set their minds to accomplish. Skilled at hacking anything life throws their way, Architects are able to break down and learn from almost any system. They then use the ideas found there wherever they’re needed. Architects tend to have their pick of jobs, from IT system designers to political organizers.
 
 > Objective – Logicians’ analysis, creativity and open-mindedness aren’t the tools of some quest for ideology or emotional validation. Rather, it’s as though people with the Logician personality type are a conduit for the truths around them, so far as they can be expressed, and they are proud of this role as theoretical mediator.
-
-> Strategic Thinkers – Commanders exemplify the difference between moment-to-moment crisis management and navigating the challenges and steps of a bigger plan, and are known for examining every angle of a problem and not just resolving momentary issues, but moving the whole project forward with their solutions.
 
 
 ## Author || Kolega di Awal Musim
